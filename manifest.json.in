@@ -1,0 +1,17 @@
+{
+    "name": "geocodemodel.liu-xiao-guo",
+    "description": "description of geocodemodel",
+    "architecture": "@CLICK_ARCH@",
+    "title": "geocodemodel",
+    "hooks": {
+        "geocodemodel": {
+            "apparmor": "geocodemodel/geocodemodel.apparmor",
+            "desktop":  "geocodemodel/geocodemodel.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

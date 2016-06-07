@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=geocodemodel
+Exec=qmlscene %U geocodemodel/Main.qml
+Icon=geocodemodel/geocodemodel.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
